@@ -4,6 +4,9 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
+		<navigator url="/pages/style/size/size">
+			<button type="default">跳转到 尺寸单位</button>
+		</navigator>
 	</view>
 </template>
 
