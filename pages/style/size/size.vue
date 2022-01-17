@@ -8,6 +8,10 @@
 		<view class="rem">
 			1rem
 		</view>
+		<view class="vhvw">
+			width: 50vw;
+			height: 30vh;
+		</view>
 	</view>
 </template>
 
@@ -39,5 +43,16 @@
 
 	.rem {
 		font-size: 1rem;
+	}
+	
+	.vhvw {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		width: 50vw;
+		height: 30vh;
+		background-color: #3F536E;
+		color: #FFFFFF;
 	}
 </style>
