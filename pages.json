@@ -12,6 +12,13 @@
 				"enablePullDownRefresh": false
 			}
 
+		}, {
+			"path": "pages/style/backageImage/backageImage",
+			"style": {
+				"navigationBarTitleText": "背景图片",
+				"enablePullDownRefresh": false
+			}
+
 		}
 	],
 	"globalStyle": {

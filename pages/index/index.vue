@@ -7,6 +7,9 @@
 		<navigator url="/pages/style/size/size">
 			<button type="default">跳转到 尺寸单位</button>
 		</navigator>
+		<navigator url="/pages/style/backageImage/backageImage">
+			<button type="default">跳转到 背景图片</button>
+		</navigator>
 	</view>
 </template>
 
