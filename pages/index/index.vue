@@ -13,6 +13,9 @@
 		<navigator url="/pages/style/icon/icon">
 			<button type="default">跳转到 图标字体</button>
 		</navigator>
+		<navigator url="/pages/defined/defined">
+			<button type="default">跳转到 条件编译</button>
+		</navigator>
 	</view>
 </template>
 

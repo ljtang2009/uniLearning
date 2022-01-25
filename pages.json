@@ -26,6 +26,13 @@
 				"enablePullDownRefresh": false
 			}
 
+		}, {
+			"path": "pages/defined/defined",
+			"style": {
+				"navigationBarTitleText": "条件编译",
+				"enablePullDownRefresh": false
+			}
+
 		}
 	],
 	"globalStyle": {
