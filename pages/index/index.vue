@@ -10,6 +10,9 @@
 		<navigator url="/pages/style/backageImage/backageImage">
 			<button type="default">跳转到 背景图片</button>
 		</navigator>
+		<navigator url="/pages/style/icon/icon">
+			<button type="default">跳转到 图标字体</button>
+		</navigator>
 	</view>
 </template>
 

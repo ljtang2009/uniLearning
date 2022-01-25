@@ -19,6 +19,13 @@
 				"enablePullDownRefresh": false
 			}
 
+		}, {
+			"path": "pages/style/icon/icon",
+			"style": {
+				"navigationBarTitleText": "图标字体",
+				"enablePullDownRefresh": false
+			}
+
 		}
 	],
 	"globalStyle": {
