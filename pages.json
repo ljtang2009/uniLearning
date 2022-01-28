@@ -33,6 +33,13 @@
 				"enablePullDownRefresh": false
 			}
 
+		}, {
+			"path": "pages/oauth/oauth",
+			"style": {
+				"navigationBarTitleText": "授权登录",
+				"enablePullDownRefresh": false
+			}
+
 		}
 	],
 	"globalStyle": {

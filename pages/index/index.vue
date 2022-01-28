@@ -16,6 +16,9 @@
 		<navigator url="/pages/defined/defined">
 			<button type="default">跳转到 条件编译</button>
 		</navigator>
+		<navigator url="/pages/oauth/oauth">
+			<button type="default">跳转到 授权登录</button>
+		</navigator>
 	</view>
 </template>
 
